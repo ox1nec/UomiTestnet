@@ -16,7 +16,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/zorru0/UomiTestnet
+git clone https://github.com/ox1nec/UomiTestnet
 cd UomiTestnet
 run.bat
 ```
@@ -24,7 +24,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/zorru0/UomiTestnet
+git clone https://github.com/ox1nec/UomiTestnet
 cd UomiTestnet
 pip install -r requirements.txt
 python bot.py
